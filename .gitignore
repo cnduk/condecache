@@ -1,0 +1,14 @@
+*.swp
+*~
+
+*.pyc
+*.pyo
+
+
+.coverage
+.coveragerc
+condecache.egg-info/
+
+/.eggs
+/build
+/dist
